@@ -1,5 +1,5 @@
 # initial-test
-##Some repository
-##With some branches
+## Some repository
+### With some branches
 Used for testing
 * Testing markdown
